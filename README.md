@@ -1,4 +1,4 @@
-Try it out over here :
+Try it out over here : bpl2026reg.vercel.app
 
 # BITS Premier League 2026
 
