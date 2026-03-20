@@ -282,7 +282,7 @@ body::after {
 
 h1 {
   font-family: 'Orbitron', sans-serif;
-  font-size: clamp(54px, 16vw, 78px);
+  font-size: clamp(40px, 12vw, 64px);;
   line-height: 1.0;
   letter-spacing: 4px;
   background: linear-gradient(135deg, var(--primary), var(--accent));
@@ -360,7 +360,7 @@ h1 {
 }
 
 .info-tile .tile-label {
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-size: 10px;
   letter-spacing: 2.5px;
   color: var(--muted);
