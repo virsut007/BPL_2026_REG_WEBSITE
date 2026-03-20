@@ -27,7 +27,7 @@
 body {
   background: var(--navy);
   color: var(--text);
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Inter', sans-serif;
   min-height: 100vh;
   overflow-x: hidden;
   position: relative;
@@ -281,7 +281,7 @@ body::after {
 }
 
 h1 {
-  font-family: 'Bebas Neue', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-size: clamp(54px, 16vw, 78px);
   line-height: 1.0;
   letter-spacing: 4px;
@@ -296,7 +296,7 @@ h1 {
   display: inline-block;
   background: linear-gradient(135deg, var(--pink), #ff6b8a);
   color: #fff;
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 2px;
@@ -370,7 +370,7 @@ h1 {
 }
 
 .info-tile .tile-value {
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: var(--text);
@@ -482,7 +482,7 @@ h1 {
 }
 
 .sport-name {
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-size: 18px;
   font-weight: 700;
   letter-spacing: 0.5px;
